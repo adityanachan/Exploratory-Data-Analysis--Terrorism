@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Terrorism
-## The Sparks Foundation - The Graduate Ratational Intership Program(GRIP)
+## The Sparks Foundation - The Graduate Rotational Intership Program(GRIP)
 ## Task 3 Exploratory Data Analysis - Terrorism
 Dataset : https://bit.ly/2TK5Xn5
 ### Aim : To find out the hot zone of terrorism and derive all security issues and sights
